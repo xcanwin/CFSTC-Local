@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CFSTC-Local
-// @description  金融标准全文公开系统-标准文件本地化
-// @version      1.1
+// @description  金融标准全文公开系统-标准文件本地化 (标准号: JR/T XXXX-YEAR)
+// @version      1.2
 // @author       xcanwin
 // @namespace    https://github.com/xcanwin/CFSTC-Local/
 // @supportURL   https://github.com/xcanwin/CFSTC-Local/
@@ -23,7 +23,7 @@
             let s_num = data.p.s_num, s_name = data.p.s_name;
             let filename = `${s_num} ${s_name}.pdf`.replace("/", "").replace("—", "-");
             dm.downloadUrl(fileurl, filename);
-            alert(`正在下载：${filename}`);
+            alert(`正在本地化：${filename}`);
         })
     };
 })();
