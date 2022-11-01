@@ -1,7 +1,7 @@
 # CFSTC-Local
 
 ## 简介
-- 金融标准全文公开系统-下载标准文件。
+- 金融标准全文公开系统-标准文件本地化
 - 喜欢这个脚本的小伙伴，可以给我的GITHUB项目 [CFSTC-Local](https://github.com/xcanwin/CFSTC-Local/) 点个STAR支持一下。
 
 ## 用法

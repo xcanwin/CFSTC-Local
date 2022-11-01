@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CFSTC-Local
-// @description  金融标准全文公开系统-下载标准文件
-// @version      1.0
+// @description  金融标准全文公开系统-标准文件本地化
+// @version      1.1
 // @author       xcanwin
 // @namespace    https://github.com/xcanwin/CFSTC-Local/
 // @supportURL   https://github.com/xcanwin/CFSTC-Local/
